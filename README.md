@@ -2,7 +2,7 @@
 
 This sample code (sample.R) is written in R and calculates the isotopic pattern using the elemental composition. 
 
-# Prerequisites
+## Prerequisites
 
 The code requires the R package 'data.table' and 'testthat' to be installed
 
@@ -14,7 +14,7 @@ The code takes as input the number of carbon atoms, hydrogen atoms, nitrogen ato
 
 The output is written to 'output.txt' which has the isotope position, abundance and relative abundance
 
-# Unit Tests
+## Unit Tests
 
 The unit tests for this code is in 'test_script.R' and can be performed by running
 
