@@ -21,3 +21,7 @@ The unit tests for this code is in 'test_script.R' and can be performed by runni
 ```r
 test_file("test_script.R")
 ```
+## R Shiny app
+
+Check the link for R Shiny app
+[Isotopic Pattern Predictor](https://nandhinidev.shinyapps.io/isopatapp/)
